@@ -1,7 +1,7 @@
 # SaaS LandingPage 
 
 ## 🤖 Introduction
-This is a personal project in which we cloned a SaaS landing page using ReactJS.
+This is a personal project where I'm creating a SaaS landing page using ReactJS based on a FIGMA Design.
 
 ## 🎨 FIGMA Design
 - https://www.figma.com/community/file/1369806316522149240
